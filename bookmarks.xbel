@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1204: for Floccus bookmark sync browser extension -->
+<!--- highestId :1205: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2820,6 +2820,9 @@
     </bookmark>
     <bookmark href="https://www.volcengine.com/docs/82379/2366394?lang=zh" id="1204">
       <title>火山 Agent Plan</title>
+    </bookmark>
+    <bookmark href="https://www.volcengine.com/docs/82379/1925114?lang=zh" id="1205">
+      <title>火山 Coding Plan</title>
     </bookmark>
   </folder>
   <bookmark href="https://bytedance.larkoffice.com/base/LByUb6fQ6a9ToZsXL0ccIYl8nCe?table=tblCb3LZamlWKT7G&amp;view=vewjTtZ2VK" id="524">
