@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1203: for Floccus bookmark sync browser extension -->
+<!--- highestId :1204: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2817,6 +2817,9 @@
     </bookmark>
     <bookmark href="https://mp.weixin.qq.com/s/77dyufF3MP8stHPS0BApNw" id="724">
       <title>万字干货！Harness Engineering如何工程化落地？</title>
+    </bookmark>
+    <bookmark href="https://www.volcengine.com/docs/82379/2366394?lang=zh" id="1204">
+      <title>火山 Agent Plan</title>
     </bookmark>
   </folder>
   <bookmark href="https://bytedance.larkoffice.com/base/LByUb6fQ6a9ToZsXL0ccIYl8nCe?table=tblCb3LZamlWKT7G&amp;view=vewjTtZ2VK" id="524">
