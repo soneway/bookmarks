@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1207: for Floccus bookmark sync browser extension -->
+<!--- highestId :1208: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2496,6 +2496,9 @@
     </bookmark>
     <bookmark href="https://bits.bytedance.net/datamind/metric-story/list?f=psn2QA9aThza23qRuivulQ&amp;isAutoPositionTime=0&amp;isDrawer=1&amp;readAuth=7197337702721898000" id="1207">
       <title>AI 贡献率 - 宋均均</title>
+    </bookmark>
+    <bookmark href="https://bits.bytedance.net/data/biz/dashboard/7589188784861202484?isAutoPositionTime=0&amp;f=I-DB7KPH-vMQ_KlFTnczrA" id="1208">
+      <title>AI 贡献率查询</title>
     </bookmark>
   </folder>
   <folder id="177">
