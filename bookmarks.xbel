@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1206: for Floccus bookmark sync browser extension -->
+<!--- highestId :1207: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2451,6 +2451,9 @@
     </bookmark>
     <bookmark href="https://bnpm.bytedance.net/package/@volcengine/rtc" id="1206">
       <title>bnpm unpkg</title>
+    </bookmark>
+    <bookmark href="https://bits.bytedance.net/datamind/metric-story/list?f=psn2QA9aThza23qRuivulQ&amp;isAutoPositionTime=0&amp;isDrawer=1&amp;readAuth=7197337702721898000" id="1207">
+      <title>开发人员合入有效代码行AI贡献率-TRAE·指标故事管理·数据洞察</title>
     </bookmark>
   </folder>
   <folder id="75">
