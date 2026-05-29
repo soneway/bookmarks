@@ -2785,11 +2785,11 @@
     <bookmark href="https://bailian.console.aliyun.com/cn-beijing/?spm=5176.12818093_47.overview_recent.1.456116d0TRM9v2&amp;tab=coding-plan#/efm/detail" id="710">
       <title>阿里百炼 Coding Plan</title>
     </bookmark>
-    <bookmark href="https://code.claude.com/docs/en/mcp" id="711">
-      <title>Claude Code MCP</title>
-    </bookmark>
     <bookmark href="https://llm-stats.com/leaderboards/llm-leaderboard" id="712">
       <title>LLM Rank</title>
+    </bookmark>
+    <bookmark href="https://code.claude.com/docs/en/mcp" id="711">
+      <title>Claude Code MCP</title>
     </bookmark>
     <bookmark href="https://arena.ai/leaderboard/code" id="713">
       <title>LLM Rank Arena</title>
