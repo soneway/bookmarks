@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :1208: for Floccus bookmark sync browser extension -->
+<!--- highestId :1209: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -2857,6 +2857,9 @@
   </bookmark>
   <bookmark href="https://bytedance.larkoffice.com/wiki/PIpjw4PWHiRJyRkUyDoc4xJ1nEK" id="531">
     <title>‍‌‌‍⁤​​‬⁡⁤‬​⁤⁢⁡⁢‍​‍⁤‬﻿‬‬​⁡‬﻿‍‌​⁤⁡⁡⁤⁤‌‌⁤﻿‌⁡​‌⁡⁣​‬​⁢Token</title>
+  </bookmark>
+  <bookmark href="https://chromewebstore.google.com/category/extensions" id="1209">
+    <title>Chrome 应用商店 - 扩展程序</title>
   </bookmark>
 </folder>
 <folder id="2">
